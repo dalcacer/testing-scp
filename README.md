@@ -9,4 +9,4 @@ Simple setup to test scp/ssh and its fitness for a specific project.
 
 * in gui
   *  `cd /vagrant`
-  * `sudo ./test-bandwidth-copy.sh && sudo ./test-packageloss-cop.sh`
+  * `sudo ./test-bandwidth-copy.sh && sudo ./test-packageloss-copy.sh`

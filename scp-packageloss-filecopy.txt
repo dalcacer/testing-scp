@@ -1,0 +1,45 @@
+0 package loss
+1.26
+1.20
+1.16
+0.70
+1.52
+5 package loss
+21.00
+14.38
+12.40
+11.03
+17.43
+10 package loss
+49.38
+34.25
+43.68
+32.62
+38.42
+15 package loss
+106.22
+85.18
+93.95
+91.19
+105.45
+20 package loss
+188.36
+179.94
+193.00
+200.83
+196.20
+25 package loss
+300.45
+250.08
+309.45
+271.82
+351.21
+30 package loss
+506.39
+479.65
+383.87
+484.21
+476.46
+35 package loss
+Command exited with non-zero status 1
+212.03
